@@ -1,6 +1,8 @@
 demonoid-slayer
 ===============
 
-A simple game made as a final project for a class group project with sprites from StarCraft. Use arrow keys to move and spacebar to fire on infinite alien enemies. Additional programming by Jesse Hardman and Brian Gale. 
+A simple game made as a final project for a class group project with sprites from StarCraft. Use arrow keys to move and spacebar to fire on infinite alien enemies. Additional programming by Jesse Hardman and Brian Gale. Requires SDL 1.2 to compile.
 
-Requires SDL 1.2 to compile.
+Controls
+==========
+Use the arrow keys to move, and the spacebar to fire in the direction you're currently facing.
